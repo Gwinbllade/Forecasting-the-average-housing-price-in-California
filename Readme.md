@@ -27,4 +27,4 @@ Training a Model:
     Run the training script:
         python train.py
 
-    On average, the model's predictions  are 10% wrong
+    On average, the model's predictions  are 9% wrong
